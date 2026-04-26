@@ -5,7 +5,7 @@
 ![Excel](https://img.shields.io/badge/Excel-openpyxl-green)
 ![Status](https://img.shields.io/badge/Status-En%20desarrollo-orange)
 
-## El problema de negocio
+## Planteamiento del problema
 
 Una cafetería operativa necesita responder preguntas críticas que 
 no se pueden ver desde una planilla de Excel desorganizada:
