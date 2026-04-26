@@ -1,0 +1,158 @@
+seccion,producto,cantidad,n_transacciones,total,precio_promedio,menu_mix_pct,margen_contrib,clasificacion
+Panadería de autor,Pan dulce relleno con diseño,3262.0,3035,9592000,2940.5272838749233,12.832,2940.5272838749233,Caballo de Trabajo
+Panadería Japonesa,Korone pan,1559.0,1495,3257500,2089.4804361770366,6.133,2089.4804361770366,Caballo de Trabajo
+Café,Latte,748.0,713,2718600,3634.4919786096257,2.943,3634.4919786096257,Caballo de Trabajo
+Panadería artesanal,Pan molde,860.0,851,2535700,2948.4883720930234,3.383,2948.4883720930234,Caballo de Trabajo
+Pastelería japonesa,Cotton Cheesecake,849.0,690,2476100,2916.4899882214368,3.34,2916.4899882214368,Caballo de Trabajo
+Frappé,Choco frappuccino,615.0,506,2460000,4000.0,2.419,4000.0,Caballo de Trabajo
+Pastelería tradicional,Carrot cake,861.0,750,2410800,2800.0,3.387,2800.0,Caballo de Trabajo
+Pastelería japonesa,Matcha roll cake,699.0,681,2337000,3343.3476394849786,2.75,3343.3476394849786,Caballo de Trabajo
+Panadería Japonesa,Melonpan,1231.0,1142,2312200,1878.3103168155972,4.843,1878.3103168155972,Caballo de Trabajo
+Frappé,Caramel frappuccino,522.0,439,2088000,4000.0,2.053,4000.0,Caballo de Trabajo
+Pastelería tradicional,Tiramisu,652.0,638,2085300,3198.312883435583,2.565,3198.312883435583,Caballo de Trabajo
+Pastelería japonesa,Dorayakis,735.0,715,1991000,2708.843537414966,2.891,2708.843537414966,Caballo de Trabajo
+Ofertas,Oferta Melonpan,491.0,469,1702300,3467.0061099796335,1.932,3467.0061099796335,Caballo de Trabajo
+Panadería artesanal,Focaccia,404.0,396,1602500,3966.5841584158416,1.589,3966.5841584158416,Caballo de Trabajo
+Café,Moca Latte,399.0,382,1597900,4004.7619047619046,1.57,4004.7619047619046,Caballo de Trabajo
+Café,Cappuccino,519.0,424,1557000,3000.0,2.042,3000.0,Caballo de Trabajo
+Ofertas,Tokyo box 1,399.0,393,1516200,3800.0,1.57,3800.0,Caballo de Trabajo
+Té - Infusiones,Matcha latte,380.0,363,1425400,3751.0526315789475,1.495,3751.0526315789475,Caballo de Trabajo
+Café,Chocolate Caliente,440.0,361,1408000,3200.0,1.731,3200.0,Caballo de Trabajo
+Preparaciones frías con té,Bubble Tea,217.0,209,992000,4571.428571428572,0.854,4571.428571428572,Estrella
+Ofertas,Oferta pan dulce relleno con diseño,276.0,244,966000,3500.0,1.086,3500.0,Caballo de Trabajo
+Ofertas,Tokyo box 2,128.0,124,960000,7500.0,0.504,7500.0,Estrella
+Panadería Japonesa,Sausage pan,312.0,236,818700,2624.0384615384614,1.227,2624.0384615384614,Caballo de Trabajo
+Panadería Japonesa,Curry pan,177.0,172,816000,4610.169491525424,0.696,4610.169491525424,Estrella
+Té - Infusiones,Chai Latte,230.0,202,805000,3500.0,0.905,3500.0,Caballo de Trabajo
+Panadería artesanal,Ciabatta,522.0,344,783000,1500.0,2.053,1500.0,Caballo de Trabajo
+Ofertas,Oferta Chocolate caliente 2x1,236.0,226,755200,3200.0,0.928,3200.0,Caballo de Trabajo
+Ofertas,Oferta menú del día,93.0,66,755000,8118.279569892473,0.366,8118.279569892473,Interrogante
+Panadería artesanal,Baguette,747.0,398,747000,1000.0,2.939,1000.0,Caballo de Trabajo
+Té - Infusiones,Té variedades,227.0,220,724500,3191.6299559471368,0.893,3191.6299559471368,Caballo de Trabajo
+Preparaciones frías con té,Frappé,164.0,155,724000,4414.634146341464,0.645,4414.634146341464,Estrella
+Preparaciones frías con café,Iced latte,180.0,168,722300,4012.777777777778,0.708,4012.777777777778,Caballo de Trabajo
+Ofertas,Oferta korone pan,247.0,229,666900,2700.0,0.972,2700.0,Caballo de Trabajo
+Café,Americano,282.0,270,663500,2352.8368794326243,1.109,2352.8368794326243,Caballo de Trabajo
+Sandwich,TOKYO BOX,48.0,44,641900,13372.916666666666,0.189,13372.916666666666,Interrogante
+Pastelería de autor,Neko tiramisú,223.0,176,626600,2809.865470852018,0.877,2809.865470852018,Caballo de Trabajo
+Ofertas,Tokyo box,82.0,79,615000,7500.0,0.323,7500.0,Interrogante
+Café,Mocaccino,186.0,166,595200,3200.0,0.732,3200.0,Caballo de Trabajo
+Pastelería tradicional,Bruselina de canela y chocolate,183.0,165,515200,2815.3005464480875,0.72,2815.3005464480875,Caballo de Trabajo
+Panadería artesanal,Marraqueta,232.257,288,510877,2199.6193871444134,0.914,2199.6193871444134,Caballo de Trabajo
+Panadería de autor,Pan viennoise,235.0,233,467200,1988.0851063829787,0.924,1988.0851063829787,Caballo de Trabajo
+Pastelería x mayor,Tiramisú sin azúcar x 12,16.0,12,408130,25508.125,0.063,25508.125,Interrogante
+Pastelería de autor,Galletas,195.0,176,404000,2071.7948717948716,0.767,2071.7948717948716,Caballo de Trabajo
+Panadería Japonesa,Choco chips Melonpan,278.0,234,396100,1424.820143884892,1.094,1424.820143884892,Caballo de Trabajo
+Panadería x mayor,Pan molde integral x mayor,225.0,40,360000,1600.0,0.885,1600.0,Caballo de Trabajo
+Otros bebestibles,Bebidas,231.0,221,342300,1481.8181818181818,0.909,1481.8181818181818,Caballo de Trabajo
+Galletas,Galletas con diseño,314.0,194,314000,1000.0,1.235,1000.0,Caballo de Trabajo
+Pastelería x mayor,Matcha roll cake x mayor,23.0,8,294000,12782.608695652174,0.09,12782.608695652174,Interrogante
+Panadería Japonesa,Melonpan de canela,186.0,171,264700,1423.1182795698924,0.732,1423.1182795698924,Caballo de Trabajo
+Café,Flat White,84.0,76,260400,3100.0,0.33,3100.0,Perro
+Panadería x mayor,Ciabattas x mayor,296.0,36,251600,850.0,1.164,850.0,Caballo de Trabajo
+Frappé,Pumpkin spice Frappuccino,60.0,48,240000,4000.0,0.236,4000.0,Perro
+Pastelería tradicional,Eclairs,80.0,76,229500,2868.75,0.315,2868.75,Perro
+Panadería de autor,Empanadas de horno,88.0,23,228800,2600.0,0.346,2600.0,Perro
+Panadería de autor,Berlín de osito,98.0,98,222400,2269.387755102041,0.386,2269.387755102041,Perro
+Ofertas,Frappuccino oferta,37.0,35,222000,6000.0,0.146,6000.0,Interrogante
+Panadería de autor,Pajaritos,184.0,97,220800,1200.0,0.724,1200.0,Caballo de Trabajo
+Panadería de autor,Donas de osito,97.0,95,205600,2119.5876288659792,0.382,2119.5876288659792,Perro
+Panadería de autor,Pan navideño,42.0,31,204000,4857.142857142857,0.165,4857.142857142857,Interrogante
+Otros bebestibles,Agua mineral,126.0,124,200200,1588.888888888889,0.496,1588.888888888889,Caballo de Trabajo
+Panadería x mayor,Pan molde multigranos x mayor,85.0,32,196900,2316.470588235294,0.334,2316.470588235294,Perro
+Panadería de autor,Cinnamon roll,77.0,71,192500,2500.0,0.303,2500.0,Perro
+Panadería de autor,Brioche Bretón,64.0,61,192000,3000.0,0.252,3000.0,Perro
+Panadería x mayor,Batards x mayor,211.0,29,179350,850.0,0.83,850.0,Caballo de Trabajo
+Té - Infusiones,Hojicha latte,39.0,38,140300,3597.4358974358975,0.153,3597.4358974358975,Perro
+Panadería Japonesa,Anpan,73.0,59,136800,1873.972602739726,0.287,1873.972602739726,Perro
+Ofertas,Oferta ciabatta,51.0,48,134300,2633.3333333333335,0.201,2633.3333333333335,Perro
+Sandwich,TOKYO BOX waku waku set,10.0,10,131000,13100.0,0.039,13100.0,Interrogante
+Otros bebestibles,Bebida pokémon,33.0,33,121800,3690.909090909091,0.13,3690.909090909091,Perro
+Café,Espresso,60.0,57,120000,2000.0,0.236,2000.0,Perro
+Ofertas,Oferta menú del día + bebestible,17.0,13,102000,6000.0,0.067,6000.0,Interrogante
+Panadería Japonesa,Brioche pan,36.0,31,100800,2800.0,0.142,2800.0,Perro
+Ofertas,Oferta pan viennoise,36.0,35,97200,2700.0,0.142,2700.0,Perro
+Sandwich,En pan baguette,22.0,21,92400,4200.0,0.087,4200.0,Interrogante
+Panadería x mayor,Pan molde linaza x mayor,38.0,14,87400,2300.0,0.149,2300.0,Perro
+Panadería artesanal,Batard,84.0,59,84000,1000.0,0.33,1000.0,Perro
+Panadería Japonesa,Yakisoba pan,24.0,22,84000,3500.0,0.094,3500.0,Perro
+Ofertas,SANDWICH DEL DÍA,18.0,10,82500,4583.333333333333,0.071,4583.333333333333,Interrogante
+PROMOCIÓN EVENTO,PROMO EVENTOS,16.0,1,80000,5000.0,0.063,5000.0,Interrogante
+Pastelería japonesa,Castella,53.0,45,79500,1500.0,0.208,1500.0,Perro
+Ofertas,Tokyo box 3,7.0,7,77000,11000.0,0.028,11000.0,Interrogante
+Pastelería tradicional,Carrot Cake Stevia,3.0,3,76800,25600.0,0.012,25600.0,Interrogante
+Pastelería x mayor,Galleton relleno (Sabores) libre de azucar,50.0,2,75000,1500.0,0.197,1500.0,Perro
+Pastelería de autor,Matcha tiramisú,26.0,22,72800,2800.0,0.102,2800.0,Perro
+Pastelería tradicional,Torta de manjar y nueces,24.0,20,67600,2816.6666666666665,0.094,2816.6666666666665,Perro
+Ofertas,Oferta Melonpan x 4 und,15.0,15,64500,4300.0,0.059,4300.0,Interrogante
+Ofertas,Oferta Cinnamon roll,16.0,15,64000,4000.0,0.063,4000.0,Perro
+Sandwich,En pan brioche,14.0,14,58500,4178.571428571428,0.055,4178.571428571428,Interrogante
+Otros bebestibles,Aguas saborizadas,37.0,36,56700,1532.4324324324325,0.146,1532.4324324324325,Perro
+Panadería de autor,OFERTA Pajaritos,14.0,13,56000,4000.0,0.055,4000.0,Perro
+Preparaciones frías con café,Espresso ginger,14.0,13,53200,3800.0,0.055,3800.0,Perro
+Panadería artesanal,Brioche,103.0,29,51500,500.0,0.405,500.0,Perro
+Panadería x mayor,Baguette x mayor,60.0,11,51000,850.0,0.236,850.0,Perro
+Pastelería tradicional,Carrot cake sin azúcar,15.0,13,48000,3200.0,0.059,3200.0,Perro
+Pastelería japonesa,Cotton Cheesecake xl,8.0,8,47200,5900.0,0.031,5900.0,Interrogante
+Panadería x mayor,Pan molde blanco grande x mayor,18.0,14,42840,2380.0,0.071,2380.0,Perro
+Panadería artesanal,Pan artesanal,35.0,28,42500,1214.2857142857142,0.138,1214.2857142857142,Perro
+Pastelería de autor,Neko red velvet,14.0,11,42000,3000.0,0.055,3000.0,Perro
+Pastelería x mayor,Carrot Cake x 20,1.0,1,42000,42000.0,0.004,42000.0,Interrogante
+Pastelería japonesa,Mochis,20.0,20,41800,2090.0,0.079,2090.0,Perro
+Ofertas,Croquembouche,4.0,3,40000,10000.0,0.016,10000.0,Interrogante
+Pastelería x mayor,Galleton relleno ( sabores) 170 gr.,25.0,2,37500,1500.0,0.098,1500.0,Perro
+Pastelería x mayor,Galleton Mantequilla de mani,25.0,2,37500,1500.0,0.098,1500.0,Perro
+,Reparto PedidosYa,11.0,11,36725,3338.6363636363635,0.043,3338.6363636363635,Perro
+Otros bebestibles,Café OKF,16.0,16,36100,2256.25,0.063,2256.25,Perro
+Ofertas,Oferta frappuccino,11.0,5,35200,3200.0,0.043,3200.0,Perro
+Ofertas,Oferta Latte,13.0,9,33280,2560.0,0.051,2560.0,Perro
+Frappé,STRAWBERRRY spice Frappuccino,8.0,8,32000,4000.0,0.031,4000.0,Perro
+Panadería de autor,Pan de osito,9.0,6,31500,3500.0,0.035,3500.0,Perro
+Panadería artesanal,Marraqueta (envasada),21.0,13,30450,1450.0,0.083,1450.0,Perro
+Ofertas,Oferta baguette,19.0,16,30400,1600.0,0.075,1600.0,Perro
+Pastelería de autor,Melonpan helado,11.0,11,28500,2590.909090909091,0.043,2590.909090909091,Perro
+Ofertas,Oferta berlin,10.0,7,28000,2800.0,0.039,2800.0,Perro
+Pastelería tradicional,Torta de chocolate naranja,10.0,10,28000,2800.0,0.039,2800.0,Perro
+Panadería Japonesa,Sausage pan XL,6.0,6,25000,4166.666666666667,0.024,4166.666666666667,Interrogante
+Pastelería tradicional,Torta Chocolate blanco frambuesa,1.0,1,22400,22400.0,0.004,22400.0,Interrogante
+Otros bebestibles,Jugos,16.0,15,22300,1393.75,0.063,1393.75,Perro
+Pastelería tradicional,3 leches,7.0,7,21000,3000.0,0.028,3000.0,Perro
+Panadería artesanal,Batard multigranos,13.0,10,20800,1600.0,0.051,1600.0,Perro
+Ofertas,Oferta cappuccino + melonpan,5.0,5,20000,4000.0,0.02,4000.0,Perro
+Ofertas,Oferta donas de osito,6.0,6,18000,3000.0,0.024,3000.0,Perro
+Otros métodos de preparación,V60,6.0,6,18000,3000.0,0.024,3000.0,Perro
+Pastelería tradicional,Roll cake,4.0,4,17500,4375.0,0.016,4375.0,Interrogante
+Ofertas,Oferta Pan molde frio,9.0,9,17200,1911.111111111111,0.035,1911.111111111111,Perro
+Pastelería tradicional,Chocolate manjar,6.0,4,16800,2800.0,0.024,2800.0,Perro
+Sandwich,TOKYO BOX (Con descuento),1.0,1,16200,16200.0,0.004,16200.0,Interrogante
+Ofertas,Oferta Sausage pan,4.0,3,16000,4000.0,0.016,4000.0,Perro
+Pastelería tradicional,Bruselina de canela y chocolate stevia,5.0,5,16000,3200.0,0.02,3200.0,Perro
+Pastelería x mayor,Panqueque naranja chocolate x8,1.0,1,15790,15790.0,0.004,15790.0,Interrogante
+Preparaciones frías con café,Espresso tonic,4.0,4,15200,3800.0,0.016,3800.0,Perro
+Pastelería x mayor,Streusel de frambuesa individual,6.0,2,15000,2500.0,0.024,2500.0,Perro
+Panadería de autor,Berlínes de osito,8.0,8,14400,1800.0,0.031,1800.0,Perro
+Pastelería tradicional,Selva negra,5.0,5,14000,2800.0,0.02,2800.0,Perro
+Panadería x mayor,Pan molde blanco x mayor,8.0,5,12800,1600.0,0.031,1600.0,Perro
+Ofertas,Oferta ensalada del día,3.0,2,12000,4000.0,0.012,4000.0,Perro
+Ofertas,Oferta ensalada del día + bebida o agua mineral,2.0,1,10000,5000.0,0.008,5000.0,Interrogante
+Sandwich,TOKYO BOX (Con descuento) waku waku set,1.0,1,9000,9000.0,0.004,9000.0,Interrogante
+Pastelería tradicional,Torta naranja chocolate,3.0,3,8600,2866.6666666666665,0.012,2866.6666666666665,Perro
+Panadería de autor,Pan navideño (oferta),1.0,1,8000,8000.0,0.004,8000.0,Interrogante
+Ofertas,Oferta curry de pollo,1.0,1,8000,8000.0,0.004,8000.0,Interrogante
+Ofertas,Oferta marraquetas,5.0,5,7500,1500.0,0.02,1500.0,Perro
+Galletas,Galletas de mantequilla,4.0,4,6000,1500.0,0.016,1500.0,Perro
+Preparaciones frías con café,Cold brew,2.0,2,6000,3000.0,0.008,3000.0,Perro
+Ofertas,Oferta Chocolate caliente,2.0,2,5800,2900.0,0.008,2900.0,Perro
+Ofertas,Oferta bolsita de dulces,1.0,1,5000,5000.0,0.004,5000.0,Interrogante
+Panadería Japonesa,Yakisoba pan + bebida  oferta,1.0,1,4500,4500.0,0.004,4500.0,Interrogante
+,Reparto,2.0,2,4000,2000.0,0.008,2000.0,Perro
+Ofertas,Oferta cappuccino + pan dulce relleno,1.0,1,4000,4000.0,0.004,4000.0,Perro
+Pastelería de autor,Tartaletas,1.0,1,3500,3500.0,0.004,3500.0,Perro
+Ofertas,Oferta Cappuccino,1.0,1,3000,3000.0,0.004,3000.0,Perro
+OTROS,Leche sola,6.0,6,3000,500.0,0.024,500.0,Perro
+Ofertas,Oferta Mocaccino,1.0,1,2900,2900.0,0.004,2900.0,Perro
+Café,LATTE ART 3D,3.0,3,2100,700.0,0.012,700.0,Perro
+OTROS,Set Stickers,2.0,2,2000,1000.0,0.008,1000.0,Perro
+Pastelería japonesa,Castella DESCUENTO,2.0,2,2000,1000.0,0.008,1000.0,Perro
+Panadería de autor,Pan dulce del día (diseño varía),1.0,1,1200,1200.0,0.004,1200.0,Perro
+Arcade,Monedas arcade,7.0,2,700,100.0,0.028,100.0,Perro
