@@ -128,4 +128,4 @@ con autorización del establecimiento. Los datos fueron anonimizados eliminando 
 
 **Rodolfo Moreno** · Cloud Data Analyst  
 Administrador Gastronómico Internacional  
-[LinkedIn](#) · [GitHub](https://github.com/ForgottenWings)
+[LinkedIn](https://www.linkedin.com/in/rmoreno-dev/) · [GitHub](https://github.com/rmoreno-dev)
