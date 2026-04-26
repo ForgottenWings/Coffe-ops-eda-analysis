@@ -7,12 +7,12 @@
 
 ## El problema de negocio
 
-Una cafetería con operación diaria necesita responder preguntas críticas que 
-no puede ver desde una planilla de Excel desorganizada:
+Una cafetería operativa necesita responder preguntas críticas que 
+no se pueden ver desde una planilla de Excel desorganizada:
 
 - ¿Cuáles productos generan el mayor margen de contribución real?
-- ¿En qué turnos se concentra el 80% del revenue?
-- ¿Cuánto del prime cost está fuera del rango saludable (< 60%)?
+- ¿En qué turnos se concentra el 80% del ingreso?
+- ¿Cuánto del costo primo está fuera del rango saludable (< 60%)?
 - ¿Qué ítems del menú deberían eliminarse y cuáles potenciarse?
 
 Este proyecto responde esas preguntas usando análisis exploratorio de datos,
@@ -60,7 +60,39 @@ Coffe-ops-eda-analysis/
 
 ## Hallazgos principales
 
-> Esta sección se completará al finalizar el análisis.
+### Ingeniería de Menú (Kasavana & Smith, 1982)
+Análisis de 157 productos con datos reales de 267 días de operación correspondientes al año 2024:
+
+| Clasificación | Productos | Ingresos | % del total | Acción |
+|---|---|---|---|---|
+| Estrellas | 4 | $3,492,000 | 4.8% | Proteger y promover |
+| Caballos de Trabajo | 44 | $60,373,727 | 83.0% | Auditar costos |
+| Interrogantes | 30 | $4,175,320 | 5.7% | Reposicionar |
+| Perros | 79 | $4,676,095 | 6.4% | Evaluar retiro |
+
+**Hallazgo crítico:** El *Pan dulce relleno con diseño* representa el 12.83% 
+del mix de ventas (producto más popular) pero clasifica como Caballo de Trabajo 
+— oportunidad de mejora de margen mediante auditoría de costos y ajuste de precio.
+
+**Estrellas identificadas:** Bubble Tea ($992K), Tokyo Box 2 ($960K), 
+Curry Pan ($816K) y Frappé ($724K) — alto margen, replicar y promover.
+
+### Validación estadística
+- **H1 confirmada:** El ticket varía significativamente por día de semana 
+  (Kruskal-Wallis H=115.96, p<0.001)
+- **H2 confirmada:** El fin de semana genera mayor ticket promedio 
+  ($8,689 vs $7,293 CLP, Mann-Whitney p<0.001)
+- **H3 no confirmada:** Correlación precio-popularidad débil (r=-0.120, p=0.136)
+- **H4 confirmada:** Ingresos difieren significativamente entre secciones 
+  (Kruskal-Wallis H=4415.13, p<0.001)
+
+### KPIs operacionales 2024
+- **Ingresos totales:** $75,648,488 CLP (267 días de operación)
+- **Ticket promedio:** $7,547 CLP
+- **Ingresos promedio diario:** $283,328 CLP
+- **Método de pago principal:** Débito (63.3% de los ingresos)
+- **Sección líder:** Panadería de autor ($11,622,400 CLP)
+- **Propinas registradas:** 421 transacciones
 
 ---
 
@@ -87,9 +119,8 @@ jupyter notebook
 
 ## Contexto del negocio
 
-Datos reales de la cafetería ubicada en ciudad de Concepción, Chile, 
-con autorización del establecimiento. Los datos fueron anonimizados
-eliminando información de clientes y personal.
+Datos reales obtenidos de una cafetería con "temática Japonesa" ubicada en la ciudad de Concepción, Chile; 
+con autorización del establecimiento. Los datos fueron anonimizados eliminando información de clientes y personal.
 
 ---
 
