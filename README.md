@@ -37,26 +37,26 @@ datos reales de una cafetería chilena ubicada en la ciudad de Concepción, con 
 
 ## Estructura del proyecto
 
+```
 Coffe-ops-eda-analysis/
 ├── data/
-│   ├── raw/            ← datos originales (no incluidos en el repo)
-│   └── processed/      ← datos limpios generados por el código
+│   ├── raw/                    ← datos originales (no incluidos en el repo)
+│   └── processed/              ← datos limpios generados por el código
 ├── notebooks/
 │   ├── 01_EDA.ipynb
-│   ├── 02_estadistica.ipynb
-│   └── 03_ingenieria_menu.ipynb
+│   ├── 02_EDA_visualizaciones.ipynb
+│   └── 03_estadistica_ingenieria_menu.ipynb
 ├── sql/
 │   └── cafeteria_analytics.sql
 ├── src/
 │   ├── data_cleaning.py
 │   └── menu_engineering.py
-├── output/             ← gráficos generados
+├── output/                     ← gráficos generados
 ├── reports/
 │   └── executive_report.xlsx
 ├── requirements.txt
 └── README.md
-
----
+```
 
 ## Hallazgos principales
 
